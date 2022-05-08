@@ -1,0 +1,5 @@
+*.iml
+/news_scraper/.scrapy/
+/.idea/
+*.DS_Store
+
